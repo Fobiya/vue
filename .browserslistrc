@@ -1,0 +1,30 @@
+> 1%
+last 2 versions
+not ie <= 8
+
+last 3 version
+Firefox >= 20
+iOS >= 7
+Android >= 4
+Firefox ESR
+Edge >= 10
+and_chr 67
+and_ff 60
+and_qq 1.2
+and_uc 11.8
+android 4.4.3-4.4.4
+baidu 7.12
+chrome 69
+chrome 68
+edge 17
+edge 16
+firefox 62
+firefox 61
+ios_saf 11.3-11.4
+ios_saf 11.0-11.2
+opera 55
+opera 54
+safari 11.1
+safari 11
+samsung 7.2
+samsung 6.2
